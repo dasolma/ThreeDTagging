@@ -22,6 +22,8 @@ Now, you will need configurate the database to store the tags. You can review th
 
 Next, it's the time to syncronize the database:
 
-`$ python manage.py syncdb`
-`$ python manage.py migrate`
+`
+$ python manage.py syncdb
+$ python manage.py migrate
+`
 
