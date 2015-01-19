@@ -3,6 +3,8 @@ A 3D model viewer that make possible add points of interest to the model with a 
 
 ![screenshot](static/images/sample_model.png)
 
+The viewer uses [Threejs ](http://threejs.org/) javascript library, so it can be used in any compatible browser, included mobile devices.
+
 ## Installation
 
 ### 1. Download
