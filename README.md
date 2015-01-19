@@ -8,9 +8,9 @@ The viewer uses [Threejs ](http://threejs.org/) javascript library, so it can be
 ## Installation
 
 ### 1. Download
-Now, you need the *django-sample-app* project files in your workspace:
+You need the *ThreeDTagging* project files in your workspace:
 
-    $ cd /path/to/your/workspace
+    $ mkdir projectname
     $ git clone https://github.com/dasolma/ThreeDTagging projectname && cd projectname
 
 ### 2. Requirements
