@@ -26,3 +26,6 @@ Next, it's the time to syncronize the database:
     $ python manage.py migrate
 
 
+## License
+
+....
