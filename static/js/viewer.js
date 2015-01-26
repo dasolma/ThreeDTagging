@@ -209,7 +209,7 @@ function POI(title, desc, point, pintPoint, isnew, canedit) {
 
   }
 
-  this.showInfo = function(x, y, edit=false) {
+  this.showInfo = function(x, y, edit) {
 	var title = this.title;
 	var description = this.description
 
