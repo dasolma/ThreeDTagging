@@ -27,7 +27,7 @@ Next, it's the time to syncronize the database:
     $ python manage.py syncdb
     $ python manage.py migrate
 
+## 4. Acknowledgments
 
-## License
+This work was partially supported by TIC-6064 Excellence project (Junta de Andalucía) and TIN2013-41086-P project (Spanish Ministry of Economy and Competitiveness), co-nanced with FEDER funds
 
-....
